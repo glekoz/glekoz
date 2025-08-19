@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## 🛠 Technical Stack
+*   Go/Python languages
+*   PostgreSQL, Redis, Apache Superset
+*   gRPC, Docker, k8s, RabbitMQ, etcd, Postman, ElasticSearch
+*   GitHub
+
 <!--
 **glekoz/glekoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
