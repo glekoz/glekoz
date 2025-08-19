@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Gleb 👋
+I have strong knowledge in backend development on Go and in Go itself.
+In general worked with monolitic and microservice arthitectures.
 
 <p align='center'>
    <a href="https://t.me/glekoz">
@@ -10,7 +12,7 @@
 </p>
 
 ## 🛠 Technical Stack
-*   Go/Python languages
+*   Go language
 *   PostgreSQL, Redis, Apache Superset
 *   gRPC, Docker, k8s, RabbitMQ, etcd, Postman, ElasticSearch
 *   GitHub
