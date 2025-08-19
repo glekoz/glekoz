@@ -1,6 +1,6 @@
 ## Hi, I'm Gleb 👋
 I have strong knowledge in backend development on Go and in Go itself.
-In general worked with monolitic and microservice arthitectures.
+In general worked with monolithic and microservice arthitectures.
 
 <p align='center'>
    <a href="https://t.me/glekoz">
