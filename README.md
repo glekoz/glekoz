@@ -14,7 +14,8 @@ In general worked with monolitic and microservice arthitectures.
 ## 🛠 Technical Stack
 *   Go language
 *   PostgreSQL, Redis, Apache Superset
-*   gRPC, Docker, k8s, RabbitMQ, etcd, Postman, ElasticSearch
+*   gRPC, Docker, k8s, RabbitMQ, ElasticSearch
+*   etcd, Postman, goose, sqlc
 *   GitHub
 
 <!--
